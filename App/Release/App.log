@@ -1,0 +1,673 @@
+﻿  Application.cpp
+  GameStateManager.cpp
+  IntroState.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\glfw\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY'
+  MenuState.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\glfw\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY'
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\GameStateManagement\MenuState.cpp(133,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\GameStateManagement\MenuState.cpp(132,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\GameStateManagement\MenuState.cpp(134,95): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\GameStateManagement\MenuState.cpp(134,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  PauseState.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\glfw\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY'
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\GameStateManagement\PauseState.cpp(126,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\GameStateManagement\PauseState.cpp(125,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\GameStateManagement\PauseState.cpp(127,95): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\GameStateManagement\PauseState.cpp(127,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  PlayGameState.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\glfw\include\GLFW\glfw3.h(98): message : see previous definition of 'APIENTRY'
+  main.cpp
+  BackgroundEntity.cpp
+  Enemy2D.cpp
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(91,76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(92,76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(284,79): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(285,79): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(357,22): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(358,22): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(368,33): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(369,33): warning C4244: '=': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(376,47): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(379,45): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(379,32): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(415,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(415,38): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(460,36): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(485,36): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(506,54): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(506,40): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(507,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(507,37): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(516,55): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(516,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(517,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Enemy2D.cpp(517,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameManager.cpp
+  GUI_Scene2D.cpp
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\GUI_Scene2D.cpp(309,33): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\GUI_Scene2D.cpp(328,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\GUI_Scene2D.cpp(377,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\GUI_Scene2D.cpp(424,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\GUI_Scene2D.cpp(471,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\GUI_Scene2D.cpp(518,35): warning C4018: '<': signed/unsigned mismatch
+  InventoryItem.cpp
+  InventoryManager.cpp
+  Map2D.cpp
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Map2D.cpp(679,36): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Map2D.cpp(679,24): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Map2D.cpp(680,36): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Map2D.cpp(680,23): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Map2D.cpp(732,41): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Map2D.cpp(732,26): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Map2D.cpp(911,46): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Map2D.cpp(940,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Map2D.cpp(949,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Map2D.cpp(1008,47): warning C4244: 'argument': conversion from 'const _Ty1' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Map2D.cpp(1008,27): warning C4244: 'argument': conversion from 'const _Ty2' to 'const unsigned int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+  Physics2D.cpp
+  Player2D.cpp
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(94,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(95,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(196,77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(197,77): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(214,64): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(248,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(248,37): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(272,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(272,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(273,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(273,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(274,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(274,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(283,55): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(283,41): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(290,64): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(299,50): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(299,37): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(300,50): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(300,37): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(301,50): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(301,37): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(302,54): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(302,40): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(310,56): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(310,42): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(312,67): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(327,52): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(327,39): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(328,55): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(328,39): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(330,34): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(343,54): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(343,40): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(361,79): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(362,79): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(432,52): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(440,52): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(468,47): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(471,45): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(471,32): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(481,51): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(481,38): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(530,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(530,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(539,50): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(539,37): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(540,54): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(540,40): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(558,52): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(558,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(567,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(567,37): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(568,54): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(568,37): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(586,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(586,39): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(595,54): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(595,40): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(596,54): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(596,37): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(608,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(608,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(617,50): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(617,37): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(618,50): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(618,34): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(637,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(637,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(638,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(638,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(639,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(639,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(640,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(640,39): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(650,25): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(670,30): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(674,19): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(697,53): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(697,39): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(698,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(698,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(699,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(699,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(700,49): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(700,36): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(710,25): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(717,59): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(720,65): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(730,30): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(734,19): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(740,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(764,48): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(764,35): warning C4244: 'argument': conversion from 'T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(822,47): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(822,34): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(825,43): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Player2D.cpp(825,30): warning C4244: 'argument': conversion from 'const T' to 'const unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Scene2D.cpp
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Scene2D.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Scene2D.cpp(176,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jhcho\OneDrive\Desktop\22S1 Programming Files\2D Game Creation\ICAs\ICA 2\NYP_Framework_ICA_2\App\Source\Scene2D\Scene2D.cpp(282,20): warning C4018: '<': signed/unsigned mismatch
+  SoundController.cpp
+  SoundInfo.cpp
+LINK : fatal error LNK1181: cannot open input file 'freetype.lib'
